@@ -1,0 +1,14 @@
+set yuv 1
+set scale 1
+set fb_mode 160x144
+set vmode 160 144 16
+set density 1
+set fullscreen 0
+bind joy0 +a
+bind joy1 +b
+bind joy9 +start
+bind joy8 +select
+bind joy4 "quit"
+bind q "quit"
+
+

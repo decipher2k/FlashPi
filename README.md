@@ -10,6 +10,9 @@ The boot time can be reduced to to about 20-30 seconds by using a microSDXC UHS-
 -Save game state: Y button (feature not yet implemented)<br>
 -Load game state: X button (feature not yet implemented)<br>
 <br><br>
+<b>SSH login data</b>:<br>
+Username: pi<br>
+Password: retroflash<br>
 <br>
 <b>Caveats:</b><br>
 -You have to manually edit wpa_supplicant.conf on /boot/ to enable networking. If you can't find it, you will have to create it manually.<br>

@@ -20,4 +20,4 @@ Password: retroflash (please change it after first login)<br>
 -If you do only see a blinking cursor after the bootlogo has been displayed, then there are no rom files present in the /home/pi/roms directory.<br>
  You can copy them to there either using a Linux USB stick from your computer, or by using some software like Paragon Linux Filesystem for Windows.<br>
 -Each time the number of rom files changes, a file renaming script for removing spaces and special characters is being called. This slows down the boot time once.<br>
- <b>-The file renaming script (which removes spaces and special characters) could eventually not be called in the current release due to sloppynes. Thus it can be necessary to change the filenames of the roms so they don't contain either of them.</b>
+ 

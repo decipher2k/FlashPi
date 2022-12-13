@@ -13,10 +13,10 @@ power.on()
 #functions that handle button events
 def when_pressed():
   os.system("touch /home/pi/shutdown")
-  os.system("chmod 777 /home/pi/shutdown")
+  os.system("chmod +w /home/pi/shutdown")
   os.system("sudo killall dialog")
   os.system("touch /home/pi/killgnuboy")
-  os.system("chmod 777 /home/pi/killgnuboy")
+  os.system("chmod +w /home/pi/killgnuboy")
   time.sleep(3)
   os.system("sudo fbv /home/pi/shutdown.jpg &")
   os.system("sudo shutdown -P now")

@@ -1,5 +1,5 @@
 # FlashPi
- An ultra fast booting Retroflag GPI Image - Gameboy only<br><br>
+ An ultra fast booting Retroflag GPI Image - Gameboy / Gameboy Color only<br><br>
 FlashPi uses a striped down and optimized RetroPi image based on the SupremeTeam release, a patched version of Gnuboy as the emulator, and a custom shell based menu.<br>
 The boot time can be reduced to about 20 seconds by using a microSDXC UHS-I card.<br><br>
 

@@ -4,7 +4,7 @@ FlashPi uses a striped down and optimized RetroPi image based on the SupremeTeam
 The boot time can be reduced to about 20 seconds by using a microSDXC UHS-I card.<br><br>
 
 <b>Usage:</b> <br>
--The rom files have got to be put into the directory /home/pi/roms<br>
+-The rom files have got to be put into the directory /boot/roms/...<br>
 -Exit emu: left shoulder button<br>
 -Save game state: Y button (feature not yet implemented)<br>
 -Load game state: X button (feature not yet implemented)<br>
